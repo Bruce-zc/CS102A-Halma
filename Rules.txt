@@ -1,0 +1,14 @@
+The Rules
+- Players randomly determine who will move first.
+- Pieces can move in eight possible directions(orthogonally and diagonally).
+- Each player's turn consists of moving a single piece of one's own color in one of the following plays(as in Figure):
+   1. One move to an empty square:
+      Place the piece in an empty adjacent square.
+      This move ends the play.
+   2. One or more jumps over adjacent pieces:
+      An adjacent piece of any color can be jumped if there is an adjacent empty square on the directly opposite side of that piece.
+      Place the piece in the empty square on the opposite side of the jumped piece.
+      The piece that was jumped over is unaffected and remains on the board.
+      After any jump, one may make further jumps using the same piece, or end the play.
+- Once a piece has reached the opposing camp, a play cannot result in that piece leaving the camp.
+- If the current play results in having every square of the opposing camp occupied by one's own pieces,  the acting player wins. Otherwise, play proceeds clockwise around the board.

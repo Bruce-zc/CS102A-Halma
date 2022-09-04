@@ -1,0 +1,17 @@
+Instructions:
+Game:
+Menu - Return to the main menu.
+Save - Create a .txt file to save the game.
+New Game - Restart the game.
+Control:
+Undo - Cancel the last move.
+Trusteeship - Ask Medium AI to help you.
+Tip - Ask Hell AI to move one step.
+View:
+Customization - Choose beautiful chessboard, chess pieces and traces by yourself.
+About:
+Help - You can review the rules here.
+Info - You can review the instructions here.
+
+Developers:
+Shao Yanwei, Zhang Ce, Li Wenyu
